@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "10 практических заданий по теме Циклы", "10 практических заданий по теме Циклы.pyproj", "{33867483-9C41-419C-A829-A71CFCB21B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33867483-9C41-419C-A829-A71CFCB21B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33867483-9C41-419C-A829-A71CFCB21B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D21009-4B9C-4F0A-B4D7-6EF1A3532CC3}
+	EndGlobalSection
+EndGlobal
